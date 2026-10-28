@@ -2,7 +2,6 @@
 
 This project is a hardware-based arcade reaction game built entirely from discrete integrated circuits on a breadboard, requiring zero microcontrollers, Arduinos, or software code. Originally developed as a digital electronics laboratory coursework demonstration, "Stop the Light" challenges players to freeze a rapidly chasing light sequence on a target color. By splitting the timing, counting, and decoding tasks across separate logic ICs, the circuit visually exposes the raw digital signals at work, offering a highly interactive way to explore hardware timing and binary logic.
 
-https://github.com/user-attachments/assets/cc125233-aa29-4bd1-9b74-f480b6a5fa93
 <img width="1600" height="1200" alt="034577f6-54c5-4ed6-a7c3-78c2521ab3de" src="https://github.com/user-attachments/assets/a2fff7e3-d85c-440f-8b9f-c83a157f32cc" />
 
 ## Bill of Materials (BOM)
